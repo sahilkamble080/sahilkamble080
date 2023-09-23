@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/sahilkamble080/sahilkamble080/blob/main/Untitled.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/sahilkamble080/sahilkamble080/blob/main/Untitled.png)]
 <h1 align="center">Hi 👋, I'm sahil kamble</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
